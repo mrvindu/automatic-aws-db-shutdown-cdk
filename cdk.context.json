@@ -1,0 +1,5 @@
+{
+  "@aws-cdk/core:enableStackNameDuplicates": "true",
+  "ssm:account=675521408808:parameterName=/automatic-aws-db-shutdown-cdk/github/repo:region=eu-west-1": "automatic-aws-db-shutdown-cdk",
+  "ssm:account=675521408808:parameterName=/automatic-aws-db-shutdown-cdk/github/owner:region=eu-west-1": "mrvindu"
+}
